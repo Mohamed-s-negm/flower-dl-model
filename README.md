@@ -32,7 +32,7 @@ Then, I starting writing the code. There were some problems that happened specia
 There were some stuff that I added, such as early-stopping to stop the model when it no longer learns.
 I also used the save model to save the best model made at all cases.
 Added predict method to use the models.
-lastly, I added a method to show the confusion matrix of the model after training.
+lastly, I added a method to show the confusion matrix of the model after training. you can check them inside the conf_matrix folder.
 
 You should download the flower dataset and copy the path and paste it in data_path variable, also change the dash lines into this "/".
 
