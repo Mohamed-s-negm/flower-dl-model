@@ -34,6 +34,8 @@ I also used the save model to save the best model made at all cases.
 Added predict method to use the models.
 lastly, I added a method to show the confusion matrix of the model after training.
 
+You should download the flower dataset and copy the path and paste it in data_path variable, also change the dash lines into this "/".
+
 You can download the entire thing from github. Then, you download the models from the v1.0.v tag and store them in a folder called models then, use the main.py file.
 Or, you can use the kaggle_lib and colab_model in google colab to create new models.
 

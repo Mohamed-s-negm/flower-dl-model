@@ -1,12 +1,16 @@
 from project_file import *
 from pathlib import Path
 
-data_path = Path('C:/Users/msen6/Documents/Github Projects/datasets/flower-dataset')
+# Dataset path
+data_path = Path('C:/Users/msen6/Documents/Github Projects/datasets/flower-dataset')  
+
+#models paths
 model_fe = "./models/model_feature_extraction.pth"
 model_sc = "./models/model_scratch.pth"
 model_ft = "./models/model_fine_tuning.pth"
 models = [model_fe, model_sc, model_ft]
-results = {}
+
+#test images paths
 image_2 = "./test/Image_2.jpg"
 image_5 = "./test/Image_5.jpg"
 image_6 = "./test/Image_6.jpg"
