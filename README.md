@@ -40,3 +40,7 @@ You can download the entire thing from github. Then, you download the models fro
 Or, you can use the kaggle_lib and colab_model in google colab to create new models.
 
 lastly, to run the model, you can just run the run_model.bat file which will then run the main file without the need of opening the files in vscode.
+
+This project was completed as a part of the SE3508 Introduction to Artifitial Intelligence course, instructed by Dr. Selim Yilmaz, Department of Software Engineering at Mugla Sitki Kocman University, 2025.
+
+Note: This repository must not be used by students in the same faculty in future years - whether partially of fully - as their own submission. Any form of code reuse without proper modification and original contribution will be considered by the instructor a violation of academic integrity policies.
