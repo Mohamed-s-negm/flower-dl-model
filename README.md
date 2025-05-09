@@ -34,7 +34,7 @@ I also used the save model to save the best model made at all cases.
 Added predict method to use the models.
 lastly, I added a method to show the confusion matrix of the model after training.
 
-You can download the entire thing from github. Then, you download the models from the v1.0.v tag and then, use the main.py file.
+You can download the entire thing from github. Then, you download the models from the v1.0.v tag and store them in a folder called models then, use the main.py file.
 Or, you can use the kaggle_lib and colab_model in google colab to create new models.
 
 lastly, to run the model, you can just run the run_model.bat file which will then run the main file without the need of opening the files in vscode.
